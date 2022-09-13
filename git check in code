@@ -1,0 +1,7 @@
+1275  git add .
+ 1276  git log
+ 1277  git status
+ 1278  git commit -m "rohm bd71847 PMIC"
+ 1279  git push origin A100_PMIC
+ 1280  git log
+
